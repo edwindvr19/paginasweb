@@ -1,0 +1,62 @@
+CONFIGURANDO POR PRIMERA VEZ     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
+git --version
+git config --list --show-origin        ver la ubicacion de la configuracion
+git config --global user.name "edwin velasquez"
+git config --global user.email edwindvr19@gmail.com
+git config --global user.password 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
+git config --global user.ui true
+git config --global init.defaultBranch main
+git config --list     ver la configuracion
+git config --global core.editor "code --wait"      # git# asignando visual studio code como editor de configuración de git
+git config --global -e ver la configuracion en edictor
+git config --global core.autocrlf true # windows# para estandarizar los saltos de línea en windows
+git config --global core.autocrlf input # mac# para estandarizar los saltos de línea en linux/mac
+git config -h # terminal# ver todas las opciones de la configuración en la terminal
+git help config # navegador# ver todas las opciones de la configuración en el navegador
+
+INICIALIZAR GIT EN UN DIRECTORIO LOCAL
+se ubica en la carpeta a trabajar o copias los archivos
+se trabaja con los commando cd y ls
+touch README.md   crea el archivos donde se toma las notas
+touch .gitignore  donde se guarda la configuracion del proyecto
+git init se inicializar el proyecto
+code . abre el edictor
+
+INICIAR UN PROYECTO
+git add archivo/directorio #agregar los cambios de un archivo al staged
+git add . #agregar todos los cambios de todos los archivos al staged
+git status ve el estado de los archivos
+git commit -m "mensaje de cambio" guarda en el repositorio local los cambios hechos
+git remote add origin https://github.com/edwindvr19/curso.git # se agraga el origen del repositorio
+
+
+
+CREA UN NUEVO REPOSITORIO EN LINEA DE COMANDO
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/edwindvr19/creacionpaginaweb.git
+git push - u origin main
+
+INSERTA UN REPORSITORIO EXISTENTE DESDE LA LINEA DE COMANDO
+git remoto add origen https://github.com/edwindvr19/curso.git
+git rama -M main 
+git push -u origin manin
+
+https://github.com/edwindvr19/creacionpaginaweb.git
+
+
+1.	http://www.initializr.com/ pagina iniciar un proyecto ejemplo
+3.	Git config --global -e  ver alias.
+
+18.	Ls donde esta ubicado
+19.	Ls –as  ver archivos y carpetas
+
+26.	Git checkout -- . recuperar un proyecto (8)
+27.	Git log
+28.	Git config –global –e   ver alias
+29.	Git config – alias.lg “log –oline –decorate –all --graph”  creando aliass
+
+
+https://www.youtube.com/watch?v=2nzOI-ynXF4
