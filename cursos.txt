@@ -26,3 +26,16 @@ ul simbolos
 li elementos de la lista
 <a href=""></a> enlace o hiperbiculos
 <img src="" alt="">
+CAPITULO 8 CSS
+especificidad
+https://specificity.keegan.st/
+https://htmlcolorcodes.com/
+
+
+
+
+https://platzi.com/clases/2467-frontend-developer/40839-tipos-de-display-mas-usados-flexbox-y-css-grid/
+CAPITULO 9
+CSS
+
+mirar bien capitulo 8 y 9
