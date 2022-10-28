@@ -1,0 +1,15 @@
+-https://platzi.com/cursos/paginas-web/
+CAPITULOS 2
+FRONTED=todo lo que ve el usuario-dominar HTML-CSS-JS
+CAPUTILO 3
+BACKEND=lo que no ve el usuario, son bases de datos
+CAPITULO 4
+<img width="500" height="500" src="mr-michi.jpg"/>
+<      ancho       alto        donde se va tomar la imagen>
+se obtiene una imagen de alto y de ancho
+_______________________________________________________ 
+pagina para ver todas las etiquetas
+https://htmlreference.io/
+https://developer.mozilla.org/es/docs/Web/HTML
+milogo
+__________________________________
