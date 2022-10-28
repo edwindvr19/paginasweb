@@ -13,3 +13,16 @@ https://htmlreference.io/
 https://developer.mozilla.org/es/docs/Web/HTML
 milogo
 __________________________________
+capitulo 6
+se dio los div-img-class-id-alt
+___________________________
+capitulo 7 
+se vio menu
+→ head para la cabecera
+→ Main para el contenido principal
+→ footer para el pie de página
+loren da texto de reyeno
+ul simbolos
+li elementos de la lista
+<a href=""></a> enlace o hiperbiculos
+<img src="" alt="">
